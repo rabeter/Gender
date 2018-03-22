@@ -1,5 +1,5 @@
 
-# 基于卷积神经网络的人脸识别,识别性别
+# 基于卷积神经网络的人脸识别,
 
 ## 应用到的库：
 opencv、numpy、PIL、TensorFlow、keras
